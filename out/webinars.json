@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Building Engaging Cross Platform Applications using Rider and Avalonia",
+    "date": "Tuesday, March 30, 2021, 14:00-15:00 GMT",
+    "dateTimestamp": 1617116400000,
+    "link": "https://info.jetbrains.com/rider-webinar-march30-2021.html",
+    "speakerName": "Dan W",
+    "speakerPhoto": "https://info.jetbrains.com/rs/426-QVD-114/images/dan-walmsley.png",
+    "speakerTwitter": "https://twitter.com/dwuk86",
+    "speakerWebsite": "",
+    "description": "Together, we can build an engaging music store application. We'll see how to get started with Avalonia, how to deal with images, bind lists in the UI using MVVM, and more! We will go over various concepts, and see how to jump start an application with Avalonia and Rider.",
+    "category": [
+      "rider"
+    ]
+  },
+  {
+    "title": ".NET 5 Dependency Injection",
+    "date": "Thursday, April 8, 2021, 14:00-15:00 GMT",
+    "dateTimestamp": 1617894000000,
+    "link": "https://info.jetbrains.com/dotnet-webinar-april-2021.html",
+    "speakerName": "Steve C",
+    "speakerPhoto": "https://info.jetbrains.com/rs/426-QVD-114/images/Steve%20Collins.jpg",
+    "speakerTwitter": "https://twitter.com/SteveTalksCode",
+    "speakerWebsite": "https://stevetalkscode.co.uk/",
+    "description": "Since the release of .NET Core (now .NET 5), more developers are making use of dependency injection by using the default Microsoft Dependency Injection container that comes out of the box with .NET Core.",
+    "category": [
+      "resharper"
+    ]
+  },
+  {
+    "title": "What's New in GoLand 2021.1",
+    "date": "Thursday, April 15, 2021, 14:00-15:00 GMT",
+    "dateTimestamp": 1618498800000,
+    "link": "https://info.jetbrains.com/goland-webinar-april-2021.html",
+    "speakerName": "Florin P",
+    "speakerPhoto": "",
+    "speakerTwitter": "https://twitter.com/dlsniper",
+    "speakerWebsite": "",
+    "description": "In this webinar, we’ll take a look at the latest release of GoLand and explore what's new.",
+    "category": [
+      "goland"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE webinars[
+<!ELEMENT webinars (webinar*)>
+<!ELEMENT webinar (date,duration,title,desc,registration,speaker,products,category?)>
+<!ELEMENT products (#PCDATA)>
+<!ELEMENT date  (#PCDATA)>
+<!ELEMENT duration  (#PCDATA)>
+<!ELEMENT web  (#PCDATA)>
+<!ELEMENT title  (#PCDATA)>
+<!ELEMENT desc  (#PCDATA)>
+<!ELEMENT registration  (#PCDATA)>
+<!ELEMENT name  (#PCDATA)>
+<!ELEMENT pic  (#PCDATA)>
+<!ELEMENT twitter  (#PCDATA)>
+<!ELEMENT category  (#PCDATA)>
+]>
+
+<webinars>
+
+    <webinar>
+        <date>2021-03-30T14:00:00+00:00</date>
+        <duration>60</duration>
+        <title>Building Engaging Cross Platform Applications using Rider and Avalonia</title>
+        <desc>Together, we can build an engaging music store application. We'll see how to get started with Avalonia, how to deal with images, bind lists in the UI using MVVM, and more! We will go over various concepts, and see how to jump start an application with Avalonia and Rider.</desc>
+        <registration>https://info.jetbrains.com/rider-webinar-march30-2021.html</registration>
+        <speaker>
+            <name>Dan W</name>
+            <pic>https://info.jetbrains.com/rs/426-QVD-114/images/dan-walmsley.png</pic>
+            <twitter>https://twitter.com/dwuk86</twitter>
+            <web></web>
+        </speaker>
+        <products>Rider</products>
+    </webinar>
+
+    <webinar>
+        <date>2021-04-08T14:00:00+00:00</date>
+        <duration>60</duration>
+        <title>.NET 5 Dependency Injection</title>
+        <desc>Since the release of .NET Core (now .NET 5), more developers are making use of dependency injection by using the default Microsoft Dependency Injection container that comes out of the box with .NET Core.</desc>
+        <registration>https://info.jetbrains.com/dotnet-webinar-april-2021.html</registration>
+        <speaker>
+            <name>Steve C</name>
+            <pic>https://info.jetbrains.com/rs/426-QVD-114/images/Steve%20Collins.jpg</pic>
+            <twitter>https://twitter.com/SteveTalksCode</twitter>
+            <web>https://stevetalkscode.co.uk/</web>
+        </speaker>
+        <products>ReSharper</products>
+    </webinar>
+
+    <webinar>
+        <date>2021-04-15T14:00:00+00:00</date>
+        <duration>60</duration>
+        <title>What's New in GoLand 2021.1</title>
+        <desc>In this webinar, we’ll take a look at the latest release of GoLand and explore what's new.</desc>
+        <registration>https://info.jetbrains.com/goland-webinar-april-2021.html</registration>
+        <speaker>
+            <name>Florin P</name>
+            <pic></pic>
+            <twitter>https://twitter.com/dlsniper</twitter>
+            <web></web>
+        </speaker>
+        <products>GoLand</products>
+    </webinar>
+
+</webinars>
